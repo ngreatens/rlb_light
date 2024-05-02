@@ -2,7 +2,7 @@
 
 ## 02052024
 
-All rnaseq reads cleaned using fastp with default settings and adapter detection enabled for paired end reads. Assessed with fastqc and summarized with multiqc. Outpput in repository.
+All rnaseq reads cleaned using fastp with default settings and adapter detection enabled for paired end reads. Assessed with fastqc and summarized with multiqc. Output in repository. \n
 Usage:
 ```
 ../rlb_light/scripts/fastp_paired.sh AHTK_dark_R1.fastq AHTK_dark_R2.fastq AHTK_dark
