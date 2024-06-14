@@ -3,7 +3,7 @@
 masked_genome=$1
 species=$2
 bamfolder=$3
-prot_db=/project/fdwsru_fungal/Nick/databases/odbFungiProteins.fa
+prot_db=/project/fdwsru_fungal/Nick/databases/ortho_db/orthodb/dothideomycetes_odb11.fa
 
 
 #generate bamlist. Create array of bams, and then echo array and replace spaces with commas.
